@@ -5,4 +5,4 @@ Git tracks changes of files.
 
 study git  is  very happy!
 
-Creating a new branch is quick
+Creating a new branch is quick & simple
